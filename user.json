@@ -1,10 +1,4 @@
 {
-  "users": {
-    "boring_student": {
-      "password": "你的密码-sha512"
-    },
-    "another_user": {
-      "password": "另一个密码"
-    }
-  }
+  "boring_student": { "password": "<sha512>", "role": "admin" },
+  "fx": { "password": "<sha512>", "role": "user" }
 }
