@@ -1,0 +1,10 @@
+{
+  "users": {
+    "boring_student": {
+      "password": "你的密码-sha512"
+    },
+    "another_user": {
+      "password": "另一个密码"
+    }
+  }
+}
