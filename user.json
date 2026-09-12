@@ -1,4 +1,10 @@
 {
-  "boring_student": { "password": "faf062a4895408377e31f2799bc158f25805197ad69d89279a67d2f38e152515c50c6fcac8355713d5c8c149fad308b5cdd7f933db2a9f426ed08a8f1856b2bd", "role": "admin" },
-  "fx": { "password": "08bf1b4520d18d5faeb3518c8c6c105d2742308962d6cb9e6b0e0599983c0eb0a4f170e5bbf55022d452a943eb0a62cd25f88339baf5db548bad16dfdeec1ae2", "role": "user" }
+  "boring_student": {
+    "password": "faf062a4895408377e31f2799bc158f25805197ad69d89279a67d2f38e152515c50c6fcac8355713d5c8c149fad308b5cdd7f933db2a9f426ed08a8f1856b2bd",
+    "role": "admin"
+  },
+  "fx": {
+    "password": "adfec223b9dcdbeb4579e9920637bb72cfc484eda62453df3965a175bcf094faf66c976d9997cf94bab5d6464d5e24612e137c6ed0e63b20bcd95505d8de2b91",
+    "role": "user"
+  }
 }
